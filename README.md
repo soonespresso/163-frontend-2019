@@ -4,6 +4,6 @@
 
 # 目录
 
-JavaScript进阶攻略
+**JavaScript进阶攻略**
 
 - 设计模式-jQuery源码分析
