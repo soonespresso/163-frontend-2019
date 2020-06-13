@@ -4,7 +4,6 @@
 
 # 目录
 
- 模块一 JavaScript进阶攻略
+JavaScript进阶攻略
 
-- 第二章 设计模式-jQuery源码分析
-  - 
+- 设计模式-jQuery源码分析
